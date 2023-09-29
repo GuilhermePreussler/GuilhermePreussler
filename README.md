@@ -1,4 +1,4 @@
-### Olá, eu sou o Guilherme Preussler
+### Olá, eu sou o Guilherme
 
 - 🔭 Hoje trabalho como desenvolvedor jr. no Grupo Positivo.
 - 🌱 Aprimorando meu conhecimentos em React.js e Node.js,<br>
