@@ -1,9 +1,9 @@
 ### Olá, eu sou o Guilherme
 
 - 🔭 Hoje trabalho como desenvolvedor jr. no Grupo Positivo.
-- 🌱 Aprimorando meu conhecimentos em React.js e Node.js,<br>
+- 🌱 Aprimorando meus conhecimentos em React.js e Node.js,<br>
   também faço pós graduação em desenvolvimento web com frameworks modernos.
-- 📫 Contate-me no email: guipreussler14@gmail.com
+
 <br>
 <div>
   <a href="https://github.com/GuilhermePreussler">
