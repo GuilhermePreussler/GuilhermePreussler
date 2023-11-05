@@ -1,6 +1,6 @@
 ### Olá, eu sou o Guilherme
 
-- 🔭 Hoje trabalho como desenvolvedor jr. no Grupo Positivo.
+- 🔭 Hoje trabalho como Desenvolvedor Jr. no Grupo Positivo.
 - 🌱 Aprimorando meus conhecimentos em React.js e Node.js,<br>
   também faço pós graduação em desenvolvimento web com frameworks modernos.
 
